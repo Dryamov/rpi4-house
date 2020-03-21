@@ -7,3 +7,6 @@
 [submodule "yay-git"]
 	path = yay-git
 	url = https://aur.archlinux.org/yay-git.git
+[submodule "rclone-git"]
+	path = rclone-git
+	url = https://aur.archlinux.org/rclone-git.git
