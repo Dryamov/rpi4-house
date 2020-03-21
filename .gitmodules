@@ -1,3 +1,9 @@
 [submodule "systemd-git"]
 	path = systemd-git
 	url = https://aur.archlinux.org/systemd-git.git
+[submodule "pacman-git"]
+	path = pacman-git
+	url = https://aur.archlinux.org/pacman-git.git
+[submodule "yay-git"]
+	path = yay-git
+	url = https://aur.archlinux.org/yay-git.git
