@@ -1,0 +1,3 @@
+[submodule "systemd-git"]
+	path = systemd-git
+	url = https://aur.archlinux.org/systemd-git.git
