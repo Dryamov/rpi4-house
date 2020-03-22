@@ -13,3 +13,6 @@
 [submodule "rpi-eeprom"]
 	path = rpi-eeprom
 	url = https://aur.archlinux.org/rpi-eeprom.git
+[submodule "pandoc-bin"]
+	path = pandoc-bin
+	url = https://aur.archlinux.org/pandoc-bin.git
