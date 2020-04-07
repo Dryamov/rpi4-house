@@ -10,3 +10,6 @@
 [submodule "pandoc-bin"]
 	path = pandoc-bin
 	url = https://aur.archlinux.org/pandoc-bin.git
+[submodule "linux-raspberrypi4-aarch64"]
+	path = linux-raspberrypi4-aarch64
+	url = https://aur.archlinux.org/linux-raspberrypi4-aarch64.git
