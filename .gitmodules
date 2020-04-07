@@ -1,0 +1,12 @@
+[submodule "PKGBUILDS/systemd-git"]
+	path = PKGBUILDS/systemd-git
+	url = https://aur.archlinux.org/systemd-git.git
+[submodule "PKGBUILDS/yay-git"]
+	path = PKGBUILDS/yay-git
+	url = https://aur.archlinux.org/yay-git.git
+[submodule "PKGBUILDS/rpi-eeprom"]
+	path = PKGBUILDS/rpi-eeprom
+	url = https://aur.archlinux.org/rpi-eeprom.git
+[submodule "PKGBUILDS/linux-raspberrypi4-aarch64"]
+	path = PKGBUILDS/linux-raspberrypi4-aarch64
+	url = https://aur.archlinux.org/linux-raspberrypi4-aarch64.git
